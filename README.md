@@ -1,4 +1,4 @@
-# Independent-Project-Week4-
+# Independent-Project-Week4- Data Analysis for an Electric Car-Sharing Service Company
 You will be working as a data scientist working for an electric car-sharing service company. You have been tasked to process stations data to understand electric car usage over time.
 ou have been tasked to process stations data to understand electric car usage over time by solving for the following research question;
 

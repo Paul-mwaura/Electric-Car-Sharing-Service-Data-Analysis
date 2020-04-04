@@ -15,3 +15,20 @@ What postal code is the most popular for picking up Blue cars? Does the most pop
 Overall?
 At the most popular picking hour?
 Do the results change if you consider Utilib and Utilib 1.4 instead of Blue cars? 
+# Experimental Design
+> Exploratory data analysis
+> Data Cleaning
+# Setup/Installation Requirements
+> Google colab/jupyter notebook
+> Python basics
+> Python libraries
+> Github
+# Known Bugs.
+{There are no known bugs}
+# Technologies Used
+{Python}
+# Support and contact details
+{Any issues, questions, ideas, concerns or contributions to the code are highly encouraged.
+Contacts: paulmwaura254@gmail.com}
+# Licence
+{MIT License. See below for more details on licensing.}

@@ -3,16 +3,10 @@ You will be working as a data scientist working for an electric car-sharing serv
 ou have been tasked to process stations data to understand electric car usage over time by solving for the following research question;
 
 ### Research Question
+Hypothesis testing for the number of cars taken and the number of cars returned on a given weekeday.
+Null Hypothesis : Number of cars taken == Number of cars returned on a weekday 
+Alternative Hypothesis: Number of cars taken != Number of cars returned on a give weekday.
 
-* Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
-* What is the most popular hour for returning cars?
-* What station is the most popular?
-> Overall?
-> At the most popular picking hour?
-* What postal code is the most popular for picking up Blue cars? Does the most popular station belong to that postal code?
-> Overall?
-> At the most popular picking hour?
-* Do the results change if you consider Utilib and Utilib 1.4 instead of Blue cars? 
 # Experimental Design
 > Exploratory data analysis
 > Data Cleaning
